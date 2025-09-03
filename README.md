@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
 ## Dividir para conquistar
 
-![Diagrama](src/dividirparaconquistar.png)
+<img width="1686" height="1384" alt="diagrama" src="https://github.com/user-attachments/assets/86529e6d-ff9a-4c77-a184-2549d6d6fa06" />
 
 ---
 
