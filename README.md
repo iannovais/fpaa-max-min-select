@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
 ## Dividir para conquistar
 
-<img width="1686" height="1384" alt="diagrama" src="https://github.com/user-attachments/assets/86529e6d-ff9a-4c77-a184-2549d6d6fa06" />
+<img width="1576" height="1367" alt="Diagrama em branco (1)" src="https://github.com/user-attachments/assets/460c99e2-cac3-4202-87d0-97e902943f1c" />
 
 ---
 
@@ -141,4 +141,5 @@ $$
 
 ## Referência
 
+* [Divide-and-conquer algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
 * [Algoritmos de Divisão e Conquista – GeeksforGeeks](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
